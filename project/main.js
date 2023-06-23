@@ -1,5 +1,3 @@
-git init
-
 import './style.css'
 
 import * as THREE from 'three';
